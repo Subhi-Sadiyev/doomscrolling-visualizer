@@ -26,7 +26,8 @@ ValenceArousalClass = Literal[
     "positive_high_arousal",
 ]
 
-load_dotenv(r"D:\youtube\code\.env")
+##provide path to .env file with OpenAI API key
+load_dotenv(r"path to your .env file")
 
 if os.path.exists(OUTPUT_FILE):
     os.remove(OUTPUT_FILE)
