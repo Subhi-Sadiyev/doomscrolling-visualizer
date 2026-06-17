@@ -19,3 +19,11 @@ pip install -r requirements.txt
 ## Output
 
 Generated plots are written to `visualizations/`.
+
+## Examples
+
+![Session Line Chart](visualizations/session_line_chart.png)
+
+![Directed Graph Visualization](visualizations/directed_graph_visualization.png)
+
+![Word Cloud](visualizations/word_cloud.png)
