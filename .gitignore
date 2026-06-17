@@ -1,5 +1,5 @@
 .venv/
 .env
-session_trajectories.png
-watch-history.json
-youtube_valence_arousal_sessions.csv
+__pycache__
+visualizations/*
+data/*
